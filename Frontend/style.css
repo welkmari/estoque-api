@@ -1,0 +1,5 @@
+.cadastrarUsuario{
+    display: flex;
+    justify-content: end; 
+    margin-top: 30px;
+}
